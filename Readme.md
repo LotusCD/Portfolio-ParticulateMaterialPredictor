@@ -6,12 +6,13 @@ Data taken from: #Calidad_del_Aire_Municipio_de_Duitama_20240302 - https://www.d
 ## Here is the complete Flask application:
 
 ## 1. Directory Structure
-csharp
-Copy code
-your_project/
+```
+project/
 │
 ├── app.py
 └── pm2_5-from-pm10.pkl
+└── Jupyter Notebook
+```
 
 ## 2. Flask Application (app.py)
 python
